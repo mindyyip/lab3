@@ -3,7 +3,7 @@
 ### Documentation
 [Lab 3 Wiki Link](https://github.com/mindyyip/lab3/wiki)
 
-![Lab 3 Wiki Screenshot](wiki.PNG)
+![Lab 3 Wiki Screenshot](lab3wiki.PNG)
 
 ### Latex
 
